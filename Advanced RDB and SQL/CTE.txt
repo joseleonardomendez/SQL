@@ -1,0 +1,5 @@
+So recursive common table expression is really good for
+... recursive operations like that... usually when there's a
+this item that points to itself in the table that can go
+into so many levels.
+So it's perfect for that.
